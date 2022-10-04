@@ -1,0 +1,15 @@
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\bin\Debug\net6.0\cALculator__.exe
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\bin\Debug\net6.0\cALculator__.deps.json
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\bin\Debug\net6.0\cALculator__.runtimeconfig.json
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\bin\Debug\net6.0\cALculator__.dll
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\bin\Debug\net6.0\cALculator__.pdb
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.csproj.AssemblyReference.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.AssemblyInfoInputs.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.AssemblyInfo.cs
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.csproj.CoreCompileInputs.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.dll
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\refint\cALculator__.dll
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.pdb
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\cALculator__.genruntimeconfig.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\cALculator__\cALculator__\obj\Debug\net6.0\ref\cALculator__.dll
